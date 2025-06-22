@@ -138,3 +138,17 @@ d. QA Engineer (Quality Assurance Engineer) Core Responsibility: The QA Engineer
 
      - Relationships: A Payment is typically linked to one Booking. A Payment is made by one User.
 
+## Feature Breakdown
+
+- User Management: This feature establishes a secure system for users to register, log in, and manage their profiles. It ensures that only authenticated users can access specific functionalities, providing a foundational layer of security and personalization for both guests and hosts.
+
+- Property Management: This allows hosts to create, update, and retrieve listings for their properties, including details like descriptions, amenities, and pricing. It enables the core function of the platform by making properties available for users to discover and book.
+
+- Booking System: This mechanism facilitates users reserving properties for specific dates, managing their booking details, and checking availability. It is crucial for enabling the core transaction of the platform, connecting guests with available accommodations.
+
+- Payment Processing: This feature integrates a secure payment system to handle all financial transactions related to bookings, including collecting payments from guests and recording payment details. It ensures that financial operations are conducted safely and accurately, a vital component of any marketplace.
+
+- Review System: This allows users to leave ratings and written reviews for properties they have stayed in. It builds trust and transparency within the platform by providing social proof and helping future guests make informed decisions about bookings.
+
+- Data Optimization: This goal focuses on ensuring that data retrieval and storage are highly efficient through strategic database design, indexing, and query optimization. It is critical for the scalability and performance of the entire application, especially as the number of users and listings grows.
+
