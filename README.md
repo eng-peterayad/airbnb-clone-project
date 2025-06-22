@@ -170,16 +170,13 @@ Key Security Measures Authentication:
 
 CI/CD stands for Continuous Integration and Continuous Delivery/Deployment. A CI/CD pipeline is an automated workflow that streamlines the software development process, from the moment a developer writes code to the point it's released to users.
 
-- Continuous Integration (CI): 
-  This is the practice of frequently merging small code changes from multiple developers into a central repository (like GitHub). After each merge, an automated process builds the code and runs a suite of automated tests (e.g., unit tests, integration tests) to immediately detect and address any integration issues or bugs introduced.
+- Continuous Integration (CI): This is the practice of frequently merging small code changes from multiple developers into a central repository (like GitHub). After each merge, an automated process builds the code and runs a suite of automated tests (e.g., unit tests, integration tests) to immediately detect and address any integration issues or bugs introduced.
 
 
-- Continuous Delivery (CD): 
-  Building on CI, Continuous Delivery ensures that the software is always in a deployable state. It automates the release process, taking the successfully integrated and tested code and preparing it for deployment to various environments (e.g., staging, production). While the production release might still require a manual trigger, the process itself is automated and reliable.
+- Continuous Delivery (CD): Building on CI, Continuous Delivery ensures that the software is always in a deployable state. It automates the release process, taking the successfully integrated and tested code and preparing it for deployment to various environments (e.g., staging, production). While the production release might still require a manual trigger, the process itself is automated and reliable.
 
 
-- Importance of CI/CD Pipelines for the Airbnb Clone Project
-  CI/CD pipelines are crucial for the Airbnb clone project because they bring speed, reliability, and quality to the development process, directly impacting the ability to meet the project goals:
+- Importance of CI/CD Pipelines for the Airbnb Clone Project: CI/CD pipelines are crucial for the Airbnb clone project because they bring speed, reliability, and quality to the development process, directly impacting the ability to meet the project goals:
 
 - Faster Feature Delivery: By automating the build, test, and deployment processes, CI/CD allows you to release new features (like a new payment method or a more refined property search) and bug fixes much more quickly and frequently. This means users can get updates sooner, enhancing their experience and keeping the platform competitive.
 
