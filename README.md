@@ -18,24 +18,6 @@
 
 - Data Optimization: Ensure efficient data retrieval and storage through database optimizations.
 
-## Technology Stack. The following technologies will be used:
-
-- Django: A high-level Python web framework used for building the RESTful API.
-
-- Django REST Framework: Provides tools for creating and managing RESTful APIs.
-
-- PostgreSQL: A powerful relational database used for data storage.
-
-- GraphQL: Allows for flexible and efficient querying of data.
-
-- Celery: For handling asynchronous tasks such as sending notifications or processing payments.
-
-- Redis: Used for caching and session management.
-
-- Docker: A Containerization tool for consistent development and deployment environments.
-
-- CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
-
 ## Team Roles
 
 a.Backend Developer
@@ -101,4 +83,22 @@ d. QA Engineer (Quality Assurance Engineer) Core Responsibility: The QA Engineer
   - Regression Testing: Ensures that new features or bug fixes don't introduce regressions (break existing functionality).
 
   - Reporting: Documents and reports bugs clearly, collaborating with Backend Developers for resolution.
+
+## Technology Stack. The following technologies will be used:
+
+- Django: A high-level Python web framework used for building the RESTful API.
+
+- Django REST Framework: Provides tools for creating and managing RESTful APIs.
+
+- PostgreSQL: A powerful relational database used for data storage.
+
+- GraphQL: Allows for flexible and efficient querying of data.
+
+- Celery: For handling asynchronous tasks such as sending notifications or processing payments.
+
+- Redis: Used for caching and session management.
+
+- Docker: A Containerization tool for consistent development and deployment environments.
+
+- CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
